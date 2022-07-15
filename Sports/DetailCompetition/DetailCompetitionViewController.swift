@@ -14,7 +14,7 @@ class DetailCompetitionViewController: UIViewController {
     
     private let backgroundImage = UIImageView()
     private let backgroundView = UIView()
-    private let gradientView = UIView(frame: CGRect(x: 0, y: 0, width: UIScreen.main.bounds.width, height: 200))
+    private let gradientView = UIView(frame: CGRect(x: 0, y: 0, width: UIScreen.main.bounds.width, height: 250))
     
     private let backButton = UIButton()
     
